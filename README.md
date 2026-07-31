@@ -60,7 +60,7 @@ portfolio/
 ---
 
 ## 📸 Preview
-![Portfolio Preview](images/portfolio-preview.png)
+![Portfolio Preview](images/preview.png)
 
 
 ---
