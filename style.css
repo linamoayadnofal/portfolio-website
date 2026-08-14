@@ -1136,6 +1136,18 @@ textarea {
   .contact-form {
     padding: 22px 18px;
   }
+
+  .coming-soon {
+  color: var(--light-text);
+  font-size: 12px;
+  font-weight: 600;
+
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+
+  cursor: default;
+}
 }
 
 
