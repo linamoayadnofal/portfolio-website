@@ -27,7 +27,7 @@ verifyButton.addEventListener("click", function () {
       "Verification successful!";
 
     setTimeout(() => {
-      window.location.href = "index.html";
+     window.location.href = "portfolio.html";
     }, 800);
   } else {
     verificationMessage.style.color = "#dc2626";
